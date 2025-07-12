@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbbasAlip
 - 👀 I’m interested in DeepLearning
-- 🌱 I’m currently learning Computer Vision and Big Data
+- 🌱 I’m currently learning Computer Vision and  GenAi
 - 💞️ I’m currenntly working on building CV application
 - 📫 How to reach me - pabbasali47@gmail.com
 
