@@ -1,10 +1,44 @@
-- 👋 Hi, I’m @AbbasAlip
-- 👀 I’m interested in DeepLearning
-- 🌱 I’m currently learning Computer Vision and  GenAi
-- 💞️ I’m currenntly working on building CV application
-- 📫 How to reach me - pabbasali47@gmail.com
+# Hi 👋, I'm Abbas
 
-<!---
-AbbasAlip/AbbasAlip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 DevOps Engineer | Cloud 
+I automate infrastructure, build CI/CD pipelines, and work on scalable cloud solutions.
+
+---
+
+### About Me  
+- Passionate about DevOps & cloud engineering  
+- Love automating repetitive tasks  
+- Learn by building real-world projects  
+- Strong Linux & troubleshooting mindset  
+
+---
+
+### Currently Learning  
+- Kubernetes (advanced concepts)  
+- Infrastructure as Code (Terraform)  
+- Monitoring & logging tools  
+- Cloud architecture best practices  
+
+---
+
+### Tech Stack  
+**Cloud:** AWS  | Azure | GCP
+**Containers:** Docker, Kubernetes  
+**CI/CD:** GitHub Actions, Jenkins  
+**OS:** Linux  
+**Version Control:** Git  
+**IaC:** Terraform | AWS Cloud Formation
+
+---
+
+### Projects  
+- CI/CD pipeline automation  
+- Dockerized applications  
+- Kubernetes deployments  
+- AWS infrastructure setups  
+
+---
+
+### Connect  
+- LinkedIn: https://www.linkedin.com/in/pabbasali/  
+- Email: pabbasali47@gmail.com
